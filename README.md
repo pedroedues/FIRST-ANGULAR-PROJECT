@@ -6,3 +6,9 @@ but I intend to develop an API and make it more useful after join the back-end a
 
 ## ⚙ INTERFACE
 <img src="./src/assets/system-interface.jpg" width=60% alt="system-interface">
+
+> System interface
+
+<img src="./src/assets/system-working.gif" width=60% alt="system-interface">
+
+> I could not show in the gif, but this system is responsive
