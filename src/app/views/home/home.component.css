@@ -1,0 +1,35 @@
+/* TOOLBAR */
+.example-spacer {
+  flex: 1 1 auto;
+  
+}
+
+.toolbarStyle {
+  font-size: 1.5rem;
+  height: 80px;
+  background-color: darkblue;
+}
+
+#toolbarTitle {
+  color: white;
+}
+
+.toolbarBtn {
+  background-color: white;
+
+}
+
+.toolbarBtn:hover {
+  text-decoration: none;
+  color: white;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-color: white;
+}
+
+.toolbarBtn:active {
+  background-color: darkblue;
+  text-decoration: none;
+}
+
+
